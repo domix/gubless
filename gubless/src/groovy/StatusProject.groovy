@@ -1,0 +1,3 @@
+enum StatusProject {
+	ACTIVE, INACTIVE	
+}

@@ -1,9 +1,10 @@
 
 = 0.1 =
-* Creación de incidencias
- * Tipos de incidencias
-   # Bug
-   # Task
-   # Improvement
-   # Feature
-* Administración de usuarios
+
+ * Creación de incidencias
+  * Tipos de incidencias
+    # Bug
+    # Task
+    # Improvement
+    # Feature
+ * Administración de usuarios

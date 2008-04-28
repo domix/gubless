@@ -1,6 +1,5 @@
-= RoadMap =
 
-== 0.1 ==
+= 0.1 =
 * Creación de incidencias
  * Tipos de incidencias
    # Bug
